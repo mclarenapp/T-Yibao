@@ -2,11 +2,11 @@ JsonpData({
     "lines":[
         {
             "title":"*A线路-主线路",
-            "host":"https://t-a.yibao33.com"
+            "host":"http://104.160.178.204:223"
         },
         {
             "title":"*B线路-备用线路",
-            "host":"https://t-b.yibao33.com"
+            "host":"http://104.160.178.204:223"
         }
     ]
 })
